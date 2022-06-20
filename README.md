@@ -29,7 +29,8 @@ THEN the saved events persist
 
 ## Links
 
-
+GitHub Link: https://github.com/JayOc10/jay-work-day-scheduler
+Live Link: https://jayoc10.github.io/jay-work-day-scheduler/
 
 
 ![Weekly planner.](./Assets/05-third-party-apis-homework-demo.gif)
